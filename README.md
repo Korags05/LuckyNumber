@@ -1,4 +1,4 @@
-#Lucky Number
+# Lucky_Number
 
 This Android app injects a touch of fun and lightheartedness into your day by generating a personalized lucky number based on user input.
 
